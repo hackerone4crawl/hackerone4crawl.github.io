@@ -1,3 +1,16 @@
+---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+title: Welcome to my new write-up!
+header:
+  image: /assets/images/photobomb-hacktheboc-writeup
+  teaser: /assets/images/photobomb-hacktheboc-writeup
+
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sodales eros nisl, quis dictum odio dictum quis. Praesent lacinia interdum lectus, nec maximus sem cursus ac."
+---
+
 # Photobomb
 
 ## Summary
