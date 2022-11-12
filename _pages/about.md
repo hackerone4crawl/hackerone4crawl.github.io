@@ -6,7 +6,7 @@ header:
   image: /assets/images/about.png
 ---
 
-# Welcome to this blog. 
+# Welcome to this awesome ethical hacking blog. 
 
 If you are here, this means that you are either a student who wants to start a career in information security industry, or a developer who wants to secure the code you write, or a bug bounty hunter who struggles to find its way to bugs, or a penetration tester who is always hungry to discover, learn and share ideas in the wonderful land of ethical hacking.
 

@@ -5,13 +5,11 @@ toc_icon: "cog"
 toc_sticky: true
 title: Welcome to my new write-up!
 header:
-  image: /assets/images/photobomb-hacktheboc-writeup
-  teaser: /assets/images/photobomb-hacktheboc-writeup
+  image: /assets/images/photobomb-hacktheboc-writeup/Untitled.png
+  teaser: /assets/images/photobomb-hacktheboc-writeup/Untitled.png
 
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sodales eros nisl, quis dictum odio dictum quis. Praesent lacinia interdum lectus, nec maximus sem cursus ac."
 ---
-
-# Photobomb
 
 ## Summary
 
